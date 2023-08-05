@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         String myFirstString;
         final int num = 1;
-        String word = " день";
+        String word = " ночь";
         myFirstString = num + word;
         System.out.println(myFirstString + " " + word + " " + num);
 
